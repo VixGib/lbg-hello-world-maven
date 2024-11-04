@@ -46,7 +46,7 @@ public class AppTest
     }
 
     @Test
-    public void test_say_goodmorning()
+    public void test_sayGoodMorning()
     [
         // Arrange
         String actualResponse = "";
