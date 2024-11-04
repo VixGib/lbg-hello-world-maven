@@ -47,7 +47,7 @@ public class AppTest
 
     @Test
     public void test_sayGoodMorning()
-    [
+    {
         // Arrange
         String actualResponse = "";
         String expectedResponse = "Good Morning";
@@ -57,5 +57,5 @@ public class AppTest
 
         // Assert
         assertEquals(expectedResponse, actualResponse);
-    ]
+    }
 }
