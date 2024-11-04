@@ -29,7 +29,7 @@ public class App
         return "Hello " + name ;
     }
 
-    public static String goodMorning(){
+    public static String sayGoodMorning(){
         return "Good Morning";
     }
 }
