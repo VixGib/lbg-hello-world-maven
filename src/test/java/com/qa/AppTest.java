@@ -53,7 +53,7 @@ public class AppTest
         String expectedResponse = "Good Morning";
 
         // Act
-        actualResponse = goodMorning();
+        actualResponse = sayGoodMorning();
 
         // Assert
         assertEquals(expectedResponse, actualResponse);
